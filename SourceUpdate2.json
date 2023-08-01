@@ -1,5 +1,4 @@
-[{"key":"AEDD2347114B31BBB0C0A0249968C782","name":"量子资源(切)","api":"http:\/\/cj.lziapi.com\/api.php\/provide\/vod\/at\/xml\/","useInSearchAll":true},
-{"key":"8AB2F66B6ABCEF86DF27411D820B6699","name":"*量子资源","api":"https:\/\/cj.lziapi.com\/api.php\/provide\/vod\/from\/liangzi\/at\/xml","useInSearchAll":true},
+[{"key":"AEDD2347114B31BBB0C0A0249968C782","name":"量子资源(切)","api":"http:\/\/cj.lziapi.com\/api.php\/provide\/vod\/at\/xml\/","useInSearchAll":true},{"key":"8AB2F66B6ABCEF86DF27411D820B6699","name":"*量子资源","api":"https:\/\/cj.lziapi.com\/api.php\/provide\/vod\/from\/liangzi\/at\/xml","useInSearchAll":true},
 {"key":"FBE6A70888A09EE50FEC9B7166FA9B0C","name":"1080zyk优质资源库","api":"https:\/\/api.1080zyku.com\/inc\/ldg_api_all.php","useInSearchAll":true},
 {"key":"2517EC1633BDAF0F475C3EB6126C7118","name":"U酷资源(优)","api":"https:\/\/api.ukuapi.com\/api.php\/provide\/vod\/at\/xml\/","useInSearchAll":true},
 {"key":"FF5A789D4072D028068B65C1A388FE50","name":"飞速资源","api":"https:\/\/www.feisuzyapi.com\/api.php\/provide\/vod\/from\/fsm3u8\/at\/xmlsea\/","useInSearchAll":true},
