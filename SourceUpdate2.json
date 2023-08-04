@@ -27,6 +27,11 @@
 {"key":"45322E2098D99B4A227AF15663BD0E55","name":"39影视","api":"https:\/\/www.39kan.com\/api.php\/provide\/vod\/at\/xml","useInSearchAll":true},
 {"key":"846FCDBBED4A1712B438209CDA399C1D","name":"韩剧网","api":"http:\/\/www.hanjuzy.com\/inc\/api.php","useInSearchAll":true},
 {"key":"F68621D4C3C2B26CA5E331A6A8407448","name":"无尽资源","api":"https:\/\/api.wujinapi.com\/api.php\/provide\/vod\/from\/wjm3u8\/at\/xmlsea\/","useInSearchAll":true},
+{"key":"金鹰资源","name":"金鹰资源","api":"https://jyzyapi.com/provide/vod/at/xml/
+","useInSearchAll":true},
+{"key":"高速资源","name":"高速资源","api":"https://api.yrzyapi.com/api.php/provide/vod/at/xmlsea/
+","useInSearchAll":true},{"key":"虎牙资源","name":"虎牙资源","api":"https://www.huyaapi.com/api.php/provide/vod/at/xml/
+","useInSearchAll":true},{"key":"*博天堂","name":"*博天堂","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":0,"quickSearch":0},
 {"key":"3957FD1AA609E46782D1570E4BED6431","name":"红牛资源站","api":"https:\/\/www.hongniuzy2.com\/api.php\/provide\/vod\/at\/xmlsea\/","useInSearchAll":true},
 {"key":"6812DFA1CC405A65B544F1891640C851","name":"BT天堂","api":"http:\/\/bttcj.com\/inc\/sapi.php","useInSearchAll":true},
 {"key":"C5896E3E2E5E47E1ABDAA7948801D4ED","name":"飘花","api":"http:\/\/www.zzrhgg.com\/api.php\/provide\/vod\/at\/xml","useInSearchAll":true},
@@ -79,5 +84,5 @@
 {"key":"F695AD77B02517432372E9BD2762A898","name":"*淫水机资源站","api":"https:\/\/www.xrbsp.com\/api\/xml.php","useInSearchAll":false},
 {"key":"2F2482A1282D12FAA0CDC63F93268F63","name":"*香奶儿资源站","api":"https:\/\/www.gdlsp.com\/api\/xml.php","useInSearchAll":false},
 {"key":"33B04F675FA8E75FDB8972A8D93C023D","name":"*白嫖资源站","api":"https:\/\/www.kxgav.com\/api\/xml.php","useInSearchAll":false},
-{"key":"2A8EF1CC0A6CBB7FD2561197135CE758","name":"*小湿妹资源站","api":"https:\/\/www.afasu.com\/api\/xml.php","useInSearchAll":false}
+{"key":"2A8EF1CC0A6CBB7FD2561197135CE758","name":"*小湿妹资源站","api":"https:\/\/www.afasu.com\/api\/xml.php","useInSearchAll":false},
 ]
