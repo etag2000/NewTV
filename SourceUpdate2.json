@@ -191,19 +191,19 @@
 		"useInSearchAll ": true
 	},
 	{
-		"key ": "虎牙资源",
-		"name ": "虎牙资源 ",
-		"api ": "https: //www.huyaapi.com/api.php/provide/vod/at/xml/",
+		"key": "虎牙资源",
+		"name": "虎牙资源 ",
+		"api": "https: //www.huyaapi.com/api.php/provide/vod/at/xml/",
 		"useInSearchAll ": true
 	},{
-		"key ": "暴风资源",
-		"name ": "暴风资源 ",
-		"api ": "https://bfzyapi.com/api.php/provide/vod/at/xml",
+		"key": "暴风资源",
+		"name": "暴风资源 ",
+		"api": "https://bfzyapi.com/api.php/provide/vod/at/xml",
 		"useInSearchAll ": true
 	},{
-		"key ": "最大资源",
-		"name ": "最大资源 ",
-		"api ": "https://api.zuidapi.com/api.php/provide/vod/from/zuidam3u8/at/xmlsea/",
+		"key": "最大资源",
+		"name": "最大资源 ",
+		"api": "https://api.zuidapi.com/api.php/provide/vod/from/zuidam3u8/at/xmlsea/",
 		"useInSearchAll ": true
 	},
 	{
