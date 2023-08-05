@@ -3,7 +3,8 @@
 		"name": "量子资源(切)",
 		"api": "http:\/\/cj.lziapi.com\/api.php\/provide\/vod\/at\/xml\/",
 		"useInSearchAll": true
-	}, {
+	},
+	{
 		"key": "8AB2F66B6ABCEF86DF27411D820B6699",
 		"name": "*量子资源",
 		"api": "https:\/\/cj.lziapi.com\/api.php\/provide\/vod\/from\/liangzi\/at\/xml",
@@ -194,28 +195,30 @@
 		"name ": "虎牙资源 ",
 		"api ": "https: //www.huyaapi.com/api.php/provide/vod/at/xml/",
 		"useInSearchAll ": true
-	},{
-    "key": "yparse",
-    "id": 29,
-    "name": "步步高资源",
-    "api": "https://api.yparse.com/api/xml",
-    "jiexiUrl": "",
-    "group": "默认",
-    "isActive": true,
-    "reverseOrder": false,
-    "status": "可用"
-  },
-  {
-    "key": "lehootv",
-    "id": 18,
-    "name": "乐活影视",
-    "api": "https://lehootv.com/api.php/provide/vod/at/xml",
-    "jiexiUrl": "",
-    "group": "默认",
-    "isActive": true,
-    "reverseOrder": false,
-    "status": "可用"
-  },
+	},
+	{
+                "key": "yparse",
+		"id": 29,
+		"name": "步步高资源",
+		"api": "https://api.yparse.com/api/xml",
+		"jiexiUrl": "",
+		"group": "默认",
+		"isActive": true,
+		"reverseOrder": false,
+		"status": "可用"
+	},
+	{
+
+		"key": "lehootv",
+		"id": 18,
+		"name": "乐活影视",
+		"api": "https://lehootv.com/api.php/provide/vod/at/xml",
+		"jiexiUrl": "",
+		"group": "默认",
+		"isActive": true,
+		"reverseOrder": false,
+		"status": "可用"
+	},
 	{
 		"key ": " 博天堂 ",
 		"name ": "博天堂 ",
