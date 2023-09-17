@@ -566,23 +566,23 @@
 		"key": "精彩TV",
 		"name": "精彩TV",
 		"api": "http://www.vvjiptv.com:1591/api.php/provide/vod/at/xml/",
-		"useInSearchAll": false
+		"useInSearchAll": true
 	},
 	{
 		"key": "奥斯卡资源,",
 		"name": "奥斯卡资源",
 		"api": "https://aosikazy.com/api.php/provide/vod/at/xmlsea/",
-		"useInSearchAll": false
+		"useInSearchAll": true
 	},
 	{
 		"key": "红袖资源",
 		"name": "红袖资源",
 		"api": "https://hongxiuzy.com/api.php/provide/vod/from/hxm3u8/at/xml",
-		"useInSearchAll": false
+		"useInSearchAll": true
 	},
 	{
-		"key": "森林资源",
-		"name": "森林资源",
+		"key": "森林资源2",
+		"name": "森林资源2",
 		"api": "https://slapibf.com/api.php/Seacms/vod/",
-		"useInSearchAll": false
+		"useInSearchAll": true
 	}]
