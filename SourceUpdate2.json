@@ -569,7 +569,7 @@
 		"useInSearchAll": false
 	},
 	{
-		"key": "奥斯卡资源,"
+		"key": "奥斯卡资源,",
 		"name": "奥斯卡资源",
 		"api": "https://aosikazy.com/api.php/provide/vod/at/xmlsea/",
 		"useInSearchAll": false
