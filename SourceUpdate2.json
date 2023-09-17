@@ -185,12 +185,6 @@
 		"useInSearchAll ": true
 	},
 	{
-		"key": "高速资源",
-		"name": "高速资源",
-		"api": "https://api.yrzyapi.com/api.php/provide/vod/at/xmlsea/",
-		"useInSearchAll ": true
-	},
-	{
 		"key": "虎牙资源",
 		"name": "虎牙资源 ",
 		"api": "https://www.huyaapi.com/api.php/provide/vod/at/xml/",
@@ -199,11 +193,6 @@
 		"key": "暴风资源",
 		"name": "暴风资源 ",
 		"api": "https://bfzyapi.com/api.php/provide/vod/at/xml",
-		"useInSearchAll ": true
-	},{
-		"key": "最大资源",
-		"name": "最大资源 ",
-		"api": "https://api.zuidapi.com/api.php/provide/vod/from/http/at/xml",
 		"useInSearchAll ": true
 	},
 	{
@@ -228,6 +217,11 @@
 		"isActive": true,
 		"reverseOrder": false,
 		"status": "可用"
+	},{
+		"key": "高速资源",
+		"name": "高速资源",
+		"api": "https://api.yrzyapi.com/api.php/provide/vod/at/xmlsea/",
+		"useInSearchAll ": true
 	},
 	{
 		"key ": " 博天堂 ",
@@ -560,5 +554,35 @@
 		"key": "2A8EF1CC0A6CBB7FD2561197135CE758",
 		"name": "*小湿妹资源站",
 		"api": "https:\/\/www.afasu.com\/api\/xml.php",
+		"useInSearchAll": false
+	},
+	{
+		"key": "丝袜资源",
+		"name": "*丝袜资源",
+		"api": "https://www.siwazyw.tv/api.php/provide/vod/at/xml/",
+		"useInSearchAll": false
+	},
+	{
+		"key": "精彩TV",
+		"name": "精彩TV",
+		"api": "http://www.vvjiptv.com:1591/api.php/provide/vod/at/xml/",
+		"useInSearchAll": false
+	},
+	{
+		"key": "奥斯卡资源,"
+		"name": "奥斯卡资源",
+		"api": "https://aosikazy.com/api.php/provide/vod/at/xmlsea/",
+		"useInSearchAll": false
+	},
+	{
+		"key": "红袖资源",
+		"name": "红袖资源",
+		"api": "https://hongxiuzy.com/api.php/provide/vod/from/hxm3u8/at/xml",
+		"useInSearchAll": false
+	},
+	{
+		"key": "森林资源",
+		"name": "森林资源",
+		"api": "https://slapibf.com/api.php/Seacms/vod/",
 		"useInSearchAll": false
 	}]
