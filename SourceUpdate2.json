@@ -581,8 +581,8 @@
 		"useInSearchAll": true
 	},
 	{
-		"key": "森林资源2",
-		"name": "森林资源2",
+		"key": "森林资源 2",
+		"name": "森林资源 2",
 		"api": "https://slapibf.com/api.php/Seacms/vod/",
 		"useInSearchAll": true
 	}]
