@@ -189,7 +189,8 @@
 		"name": "虎牙资源 ",
 		"api": "https://www.huyaapi.com/api.php/provide/vod/at/xml/",
 		"useInSearchAll ": true
-	},{
+	},
+	{
 		"key": "暴风资源",
 		"name": "暴风资源 ",
 		"api": "https://bfzyapi.com/api.php/provide/vod/at/xml",
@@ -217,7 +218,8 @@
 		"isActive": true,
 		"reverseOrder": false,
 		"status": "可用"
-	},{
+	},
+	{
 		"key": "高速资源",
 		"name": "高速资源",
 		"api": "https://api.yrzyapi.com/api.php/provide/vod/at/xmlsea/",
@@ -270,12 +272,6 @@
 		"key": "0C5EC253B9FA957B70EC789079E53094",
 		"name": "*探探资源",
 		"api": "https:\/\/apittzy.com\/api.php\/Seacms\/vod\/",
-		"useInSearchAll": true
-	},
-	{
-		"key": "6C39F3064398621A466362ACCAEEFE66",
-		"name": "*亚洲成人在线",
-		"api": "https:\/\/www.caiji01.com\/home\/cjapi\/cfd2\/mc10\/vod\/xml",
 		"useInSearchAll": true
 	},
 	{
@@ -585,4 +581,10 @@
 		"name": "森林资源",
 		"api": "https://slapibf.com/api.php/Seacms/vod/",
 		"useInSearchAll": false
+	},
+	{
+		"key": "6C39F3064398621A466362ACCAEEFE66",
+		"name": "*亚洲成人在线",
+		"api": "https:\/\/www.caiji01.com\/home\/cjapi\/cfd2\/mc10\/vod\/xml",
+		"useInSearchAll": true
 	}]
