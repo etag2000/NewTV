@@ -1,6 +1,6 @@
   {
 	"sites": [  
-      //SP类视频源
+      
     {"key":"csp_77","name":"酷云77(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Cokemv","name":"Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_CZSPP","name":"厂长(SP)","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":1},
@@ -8,10 +8,10 @@
     {"key":"csp_GitCafe","name":"小纸条(SP)","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_AliPanSou","name":"阿里盘搜(SP)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Zxzj","name":"在线之家(SP)国外","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
-	     //xpath视频源
+	     
 { "key": "N", "name": "泥巴影院", "type": 3, "api": "csp_NiNi", "searchable": 1, "filterable": 1, "jar":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar" }, 
 { "key": "精彩TV", "name": "🍭精彩TV", "type": 0, "api": "http://www.vvjiptv.com:1591/api.php/provide/vod/at/xml/", "playUrl": "", "categories": [ "动作片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "喜剧片", "犯罪片", "动画片", "灾难片", "悬疑片", "奇幻片", "其他片", "港台综艺", "大陆综艺", "日韩综艺", "欧美综艺", "体育赛事", "纪录片", "大陆动漫", "日本动漫", "欧美动漫", "海外动漫", "冒险片", "转移影片", "测试节目", "华语连载", "粤语连载", "欧美连载", "日韩连载", "华语全剧", "粤语全剧", "欧美全剧", "日韩全剧", "泰剧", "足球", "篮球", "网球", "斯诺克" ] },
-{ "key": "Youtube", "name": "Youtube", "type": 3, "style":{ "type":"oval" }, "api": "http://myhd.kozow.com/mitv/tvbox/jar/Mud.js", /*"searchable": 1, "changeable": 1,*/ "ext": "http://myhd.kozow.com/mitv/tvbox/jar/USvO.txt" },
+{ "key": "Youtube", "name": "Youtube", "type": 3, "style":{ "type":"oval" }, "api": "http://myhd.kozow.com/mitv/tvbox/jar/Mud.js",  "ext": "http://myhd.kozow.com/mitv/tvbox/jar/USvO.txt" },
 { "key": "MV_vod", "name": "MV", "type": 1, "api": "https://tvbox-mv--leosam2048.repl.co/mv/vod", "jar":"http://myhd.kozow.com/mitv/tvbox/jar/fongmi2_spider.jar", "ext": "http://myhd.kozow.com/mitv/tvbox/marquee.json", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 { "key":"Auete", "name":"奥特", "type":3, "api":"csp_Dora", "searchable":1, "filterable":1, "ext":"b04b15448ad5bd4312f1fa1fb9aa9b1b", "jar": "img+http://e97052.vip.cantonshop.cn/babybox/jar/tang-spider.bmp;md5;14c78d28d57487100b1b93786df78bc6" },
 { "key": "獨播庫", "name": "🔥獨播庫", "type": 3, "api": "csp_XPathMacFilter", "searchable": 1, "changeable": 1, "ext": "http://myhd.kozow.com/mitv/tvbox/json/duboku.json" },
@@ -19,11 +19,11 @@
 { "key": "非凡資源", "name": "🌠非凡資源", "type": 1, "api": "http://cj.ffzyapi.com/api.php/provide/vod/?ac=list", "searchable": 1, "changeable": 1, "categories": [ "国产动漫", "日韩动漫", "国产剧", "韩国剧", "日本剧", "电影片", "连续剧", "综艺片", "动漫片", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "香港剧", "欧美剧", "记录片", "台湾剧", "海外剧", "泰国剧", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "欧美动漫", "港台动漫", "海外动漫" ] },
 { "key": "跑馬燈", "name": "MYHD", "type": 3, "api": "csp_Notice", "jar":"http://myhd.kozow.com/mitv/tvbox/jar/fongmi2_spider.jar", "ext": "http://myhd.kozow.com/mitv/tvbox/marquee.json" },
 
-    //m3u8
+    
 
     {"key": "U酷资源","name": "U酷资源(uk)","playUrl": "https://api.ukubf.com/m3u8/?url=","type": 1,"api": "https://api.ukuapi.com/api.php/provide/vod/from/ukm3u8/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧","动漫","综艺","港澳剧","台湾剧","日剧","韩剧","欧美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","泰剧","纪录片"]},
 
-    {"key":"一起看","name":"☕一起看","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837"}, {"key":"小蘋果","name":"👀小蘋果","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"6deed4548c44b18d268a5d828f04d86e"}, { "key": "VIPMusic", "name": "🌸音乐(Exo播放器)🌸", "type": 4, "api": "http://120.53.102.254/live?url=http://myhd.kozow.com/mitv/tvbox/music.txt", "searchable": 1, "quickSearch": 1, "filterable": 1 }
+    {"key":"一起看","name":"☕一起看","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837"}, {"key":"小蘋果","name":"👀小蘋果","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"6deed4548c44b18d268a5d828f04d86e"}, { "key": "VIPMusic", "name": "🌸音乐(Exo播放器)🌸", "type": 4, "api": "http://120.53.102.254/live?url=http://myhd.kozow.com/mitv/tvbox/music.txt", "searchable": 1, "quickSearch": 1, "filterable": 1 },
     {"key": "新浪资源","name": "新浪资源(xl)","type": 1,"api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["大陆剧","动漫","综艺","动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","港澳剧","台湾剧","欧美剧","韩剧","日剧","泰剧","纪录片"]},
     
     {"key": "百度云资源","name": "百度云(db)","type": 1,"api": "https://api.apibdzy.com/api.php/provide/vod/from/dbm3u8/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["大陆剧","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","港澳剧","台湾剧","日剧","韩剧","纪录片","犯罪片","欧美剧","其他剧","泰剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","悬疑片","体育赛事"]},
