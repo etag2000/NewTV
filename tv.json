@@ -1,15 +1,6 @@
   {
 
 	"sites": [  
-      
-    {"key":"csp_77","name":"酷云77(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_Cokemv","name":"Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_CZSPP","name":"厂长(SP)","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":1},
-    {"key": "LiteApple","name": "小苹果(SP)","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
-    {"key":"csp_GitCafe","name":"小纸条(SP)","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_AliPanSou","name":"阿里盘搜(SP)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_Zxzj","name":"在线之家(SP)国外","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
-	     
 { "key": "N", "name": "泥巴影院", "type": 3, "api": "csp_NiNi", "searchable": 1, "filterable": 1, "jar":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar" }, 
 { "key": "精彩TV", "name": "🍭精彩TV", "type": 0, "api": "http://www.vvjiptv.com:1591/api.php/provide/vod/at/xml/", "playUrl": "", "categories": [ "动作片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "喜剧片", "犯罪片", "动画片", "灾难片", "悬疑片", "奇幻片", "其他片", "港台综艺", "大陆综艺", "日韩综艺", "欧美综艺", "体育赛事", "纪录片", "大陆动漫", "日本动漫", "欧美动漫", "海外动漫", "冒险片", "转移影片", "测试节目", "华语连载", "粤语连载", "欧美连载", "日韩连载", "华语全剧", "粤语全剧", "欧美全剧", "日韩全剧", "泰剧", "足球", "篮球", "网球", "斯诺克" ] },
 { "key": "Youtube", "name": "Youtube", "type": 3, "style":{ "type":"oval" }, "api": "http://myhd.kozow.com/mitv/tvbox/jar/Mud.js",  "ext": "http://myhd.kozow.com/mitv/tvbox/jar/USvO.txt" },
