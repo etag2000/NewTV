@@ -2,6 +2,13 @@
     "wallpaper": "https://up.tt98.com/edpic/28/2a/7a/282a7a191f818caa971130b27a5571a3.jpg",
     "spider": "http://myhd.kozow.com/mitv/tvbox/jar/custom_spider.jar",
     "lives": [
+        { 
+            "name": "🌏SMART", 
+            "type": 0, "url": "http://myhd.kozow.com/mitv/tvbox/smart.php", 
+            "epg": "http://myhd.kozow.com/mitv/tvbox/epg/epg.php?ch={name}&date={date}", 
+            "logo": "http://myhd.kozow.com/mitv/tvbox/epg/logo.php?id={name}", 
+            "playerType": 1, "ua": "ExoPlayerLib/2.9.0 AppleCoreMedia/ VasCreativePlayer Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" 
+        },
         {
             "name": "🌏全球直播",
             "url": "http://myhd.kozow.com/mitv/tvbox/mlive.php",
@@ -17,14 +24,7 @@
             } 
         }, 
         "auth": "http://auth4u.kozow.com/Auth.php?mod=3",
-        { 
-            "name": "🌏SMART", 
-            "type": 0, "url": "http://myhd.kozow.com/mitv/tvbox/smart.php", 
-            "epg": "http://myhd.kozow.com/mitv/tvbox/epg/epg.php?ch={name}&date={date}", 
-            "logo": "http://myhd.kozow.com/mitv/tvbox/epg/logo.php?id={name}", 
-            "playerType": 1, "ua": "ExoPlayerLib/2.9.0 AppleCoreMedia/ VasCreativePlayer Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" 
-        }, 
-        { 
+         { 
             "name": "🌏柠檬", 
             "type": 0, "playerType": 1, 
             "ua": "lemff71ff25b2b0033b0d9f68830728b4cc", 
