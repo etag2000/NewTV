@@ -1,7 +1,8 @@
 {
     "wallpaper": "https://up.tt98.com/edpic/28/2a/7a/282a7a191f818caa971130b27a5571a3.jpg",
     "spider": "http://myhd.kozow.com/mitv/tvbox/jar/custom_spider.jar",
-    "lives": [
+    "lives": 
+    [
         { 
             "name": "🌏SMART", 
             "type": 0, "url": "http://myhd.kozow.com/mitv/tvbox/smart.php", 
