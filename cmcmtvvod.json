@@ -58,14 +58,15 @@
             "pass": false, 
             "ua": "ExoPlayerLib/2.9.0 AppleCoreMedia/ VasCreativePlayer Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36", 
             "referer": "https://yeslivetv.com/", 
-            "core":[ 
+            "core":
+            {
                 "auth": "http://bau.00009999.cc/v1/auth", 
                 "name": "999126754208", 
                 "pass": "37521585428098453824928285948923", 
                 "broker": "", 
-                "libname": "libtvcore2.so" 
-            ]
-        }, 
+                "libname": "libtvcore2.so"
+            } 
+        },
         "auth": "http://auth4u.kozow.com/Auth.php?mod=3" 
     ],
     "sites": [
