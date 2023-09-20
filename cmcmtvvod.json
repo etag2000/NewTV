@@ -2,18 +2,15 @@
    "spider":"https://f004.backblazeb2.com/file/20232023/%E7%B3%9F%E8%80%81%E5%A4%B4.jar",
    "lives":[
       {
-         "name":"🌏全球直播",
+         "name":"🌏SMART",
          "type":0,
-         "url":"http://myhd.kozow.com/mitv/tvbox/mlive7.php",
-         "core":{
-            "auth":"https://auth.zhaohezuo.top/v3/auth",
-            "name":"02:00:00:00:00:00",
-            "pass":"3fbd0d4be5d491d5728c1fc8a794f595",
-            "broker":"",
-            "libname":"libtvcore2.so",
-            "auth":"http://s9974302.myself.tk/zhaohezuo.top/chili_auth.php"
-         }
-         },
+         "url":"http://myhd.kozow.com/mitv/tvbox/smart.php"
+      },
+      {
+         "name":"🌏歐華",
+         "type":0,
+         "url":"http://myhd.kozow.com/mitv/tvbox/mlive12.php"
+      },
       {
          "name":"线更直播",
          "type":0,
@@ -23,16 +20,6 @@
          "name":"线更新剧",
          "type":0,
          "url":"https://f004.backblazeb2.com/file/unemployed/sg.txt"
-      },
-      {
-         "name":"🌏SMART",
-         "type":0,
-         "url":"http://myhd.kozow.com/mitv/tvbox/smart.php"
-      },
-      {
-         "name":"🌏歐華",
-         "type":0,
-         "url":"http://myhd.kozow.com/mitv/tvbox/mlive12.php"
       }
    ],
    "sites":[
