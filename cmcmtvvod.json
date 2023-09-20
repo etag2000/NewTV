@@ -11,10 +11,14 @@
             "type": 0,
             "url": "https://f004.backblazeb2.com/file/unemployed/sg.txt"
         },
-        {
-            "name": "晴天直播",
-            "type": 0,
-            "url": "https://www.geocities.ws/xyzlivehd/CDN/LEOTV.txt"
+        { 
+            "name": "🌏歐華", 
+            "type": 0, 
+            "playerType": 1, 
+            "ua": "okhttp/3.12.13", 
+            "url": "http://myhd.kozow.com/mitv/tvbox/mlive12.php", 
+            "epg": "http://myhd.kozow.com/mitv/tvbox/epg/epg.php?ch={name}&date={date}", 
+            "logo": "http://myhd.kozow.com/mitv/tvbox/epg/logo.php?id={name}  
         }
     ],
     "sites": [
