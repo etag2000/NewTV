@@ -243,7 +243,7 @@
 			  "filterable":"1","ext":"6deed4548c44b18d268a5d828f04d86e"}, 
 		  { "key": "VIPMusic", 
 			  "name": "🌸音乐(Exo播放器)🌸", 
-			  "type": 4, "api": "http://120.53.102.254/live?url=http://myhd.kozow.com/mitv/tvbox/music.txt", 
+			  "type": 4, "api": "http://myhd.kozow.com/mitv/tvbox/music.txt", 
 			  "searchable": 1, 
 			  "quickSearch": 1, 
 			  "filterable": 1 },
