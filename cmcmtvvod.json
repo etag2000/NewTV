@@ -18,7 +18,7 @@
             "ua": "okhttp/3.12.13", 
             "url": "http://myhd.kozow.com/mitv/tvbox/mlive12.php", 
             "epg": "http://myhd.kozow.com/mitv/tvbox/epg/epg.php?ch={name}&date={date}", 
-            "logo": "http://myhd.kozow.com/mitv/tvbox/epg/logo.php?id={name}  
+            "logo": "http://myhd.kozow.com/mitv/tvbox/epg/logo.php?id={name}"  
         }
     ],
     "sites": [
