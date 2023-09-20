@@ -22,7 +22,7 @@
             "key": "SmartTV",
             "name": "SmartTV",
             "type": 1,
-            "api": "https://fushusharing.000webhostapp.com/TVBOX/tvlist.json",
+            "api": "https://raw.githubusercontent.com/etag2000/NewTV/main/Iptv.json",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
