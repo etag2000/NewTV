@@ -1,0 +1,1746 @@
+[{
+		"type": "Malaysia",
+		"list": [{
+				"name": "TV1",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5c133979efad5_VpBu.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=TV1"
+			},
+			{
+				"name": "TV2",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5960dd05bc748_nI07.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=TV2"
+			},
+			{
+				"name": "TV3",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5be4fcde28d82_pYZ8.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=TV3"
+			},
+			{
+				"name": "TV3 backup",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/619e1d97c9b68_0mQh.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=TV382_backup"
+			},
+			{
+				"name": "NTV7",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5960dd41c9120_MyD6.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=NTV7"
+			},
+			{
+				"name": "TV8",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a06c0f3a6dc9_xR72.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=TV8"
+			},
+			{
+				"name": "TV9",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5960dd91afc0d_GwBt.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=TV9"
+			},
+			{
+				"name": "Warna",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5eede66bc3078_X0CI.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Warna"
+			},
+			{
+				"name": "RIA",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5be9b8d01a68c_HzDP.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Ria"
+			},
+			{
+				"name": "Ria backup",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/6040d33cda1a8_0r0n.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Ria_backup"
+			},
+			{
+				"name": "Ria backup",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/6040d33cda1a8_0r0n.png",
+				"url": "http://ublive.kozow.com/smart/smart.php?url=http://50.7.92.74:8278/Ria_backup/playlist.m3u8"
+			},
+			{
+				"name": "Ria backup",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/6040d33cda1a8_0r0n.png",
+				"url": "http://ublive.kozow.com/smart/smart.php?url=http://50.7.161.82:8278/Ria_backup/playlist.m3u8"
+			},
+			{
+				"name": "Awani",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5971ff717d4fd_2diW.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Awani"
+			},
+			{
+				"name": "Bernama",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5971ff8752f79_777W.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Bernama"
+			},
+			{
+				"name": "Bernama",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5971ff8752f79_777W.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Bernama82"
+			},
+			{
+				"name": "Prima",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5b051150ecc8f_99zC.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Prima"
+			},
+			{
+				"name": "Al-Hijrah",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a0fd8679ed60_ECrF.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Alhijrah"
+			},
+			{
+				"name": "Mecca Live HD",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/61d796f16a8d4_2WdF.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=quran_mido"
+			},
+			{
+				"name": "Madinah HD",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/61d7970f59043_UeYi.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=sunnah_mido"
+			},
+			{
+				"name": "RTM Sports HD",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5ca85501a4694_01x0.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Rtmsport"
+			},
+			{
+				"name": "NatGeo Wild HD",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5f5238eb84441_i5BZ.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Natgeowild"
+			},
+			{
+				"name": "Oasis",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5b0511221c87d_EbX5.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Oasis"
+			},
+			{
+				"name": "Ceria",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5f7f0e5db46e8_22WL.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Ceria"
+			},
+			{
+				"name": "TVIQ",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/61d719774e820_se6Q.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Tviq"
+			},
+			{
+				"name": "Citra",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5fb7ae697306a_f2Fx.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Citra"
+			},
+			{
+				"name": "Boo",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5fc1c84d88fe2_SWyt.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Boo"
+			},
+			{
+				"name": "Drama Sangat",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5ef7fead168c5_09JJ.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Dsangat"
+			},
+			{
+				"name": "Naura",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/61dfa0472bec7_nEwj.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Naura"
+			},
+			{
+				"name": "Aura",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/61d718dca9206_4t4m.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Aura"
+			},
+			{
+				"name": "Rania",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/61d718f5c84fb_arYH.png",
+				"url": "hhttp://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Rania"
+			},
+			{
+				"name": "Tutor PT3",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/61d71917a662b_wBj2.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Tutor_pt3"
+			},
+			{
+				"name": "Tutor SPM",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/61d71933ba407_yjOT.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Tutor_spm"
+			},
+			{
+				"name": "Tutor UPSR",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/61d7195715556_tnTa.png",
+				"url": "http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Tutor_upsr/playlist.m3u8"
+			},
+			{
+				"name": "Goshop",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5f69f2fa4bc31_KB79.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Goshop"
+			},
+			{
+				"name": "Sony HD",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/6040d4726400b_l42l.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=SetOne"
+			},
+			{
+				"name": "Oh!k",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5c2302e0d8f26_EK94.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Ohk"
+			},
+			{
+				"name": "TvN",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5f7ef947e366c_28ky.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=TVN"
+			},
+			{
+				"name": "KBS World",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/6046396a86a35_2md1.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=KBS"
+			},
+			{
+				"name": "AEC",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/597200ac0df0a_0S0G.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=AEC"
+			},
+			{
+				"name": "Celestial Movies HD",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5decd54011473_yII5.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Celestial"
+			},
+			{
+				"name": "Celestial Movies HD",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5decd54011473_yII5.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Celestialindo"
+			},
+			{
+				"name": "Celestial Classic",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5b3df32c37b0b_2c1C.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Celestial2"
+			},
+			{
+				"name": "SCM",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/607d5a1f01819_pHwR.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Weishimovie"
+			},
+			{
+				"name": "华丽台 HD （Wah Lai Toi）",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a70855bd40f6_rUNh.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Wlt"
+			},
+			{
+				"name": "欢喜台 HD （Hua Hee Tai）",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a7084dfb3b50_naze.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Huahee"
+			},
+			{
+				"name": "全佳 Quan Jia",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5bb2163ab554f_7JHJ.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Quanjia"
+			},
+			{
+				"name": "双星 ShuangXing",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5b3e6e3842d24_l7rt.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Shuangxing"
+			},
+			{
+				"name": "小太阳",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5f783e2757d7c_FOWG.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Xiaotaiyang"
+			},
+			{
+				"name": "TVB 星河台 Xing He",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a42113464e4b_qmq0.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Xinhe"
+			},
+			{
+				"name": "爱奇艺 iQiyi",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5d74be1faa9d7_oGUh.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Qiyi"
+			},
+			{
+				"name": "AOD hd",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5f2e5948dd943_cdFQ.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=AodHD"
+			}, {
+				"name": "AOD 511",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5d74bde519422_jMCA.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Aod350"
+			},
+			{
+				"name": "KiX HD",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5d285e8914bda_u4E5.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=KiX"
+			},
+			{
+				"name": "Cartoon Network",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a2158e819c10_pwud.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Cn"
+			},
+			{
+				"name": "HGTV",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5e982c32ac7fb_rd81.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Aod350HGTV"
+			},
+			{
+				"name": "Animal Planet (Eng)",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5ecf924651f26_c7eN.png",
+				"url": "http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/AnimalPlanet/playlist.m3u8"
+			},
+			{
+				"name": "CNN",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5f0583a98287b_hwW9.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=cnn_twn"
+			},
+			{
+				"name": "CNBC",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a0fe18c9cc7e_769j.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=cnbc_twn"
+			},
+			{
+				"name": "BBC World News",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5f69e925d7c6c_0tcF.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=bbcnews_twn"
+			},
+			{
+				"name": "TLC",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5b502a10ccb7c_HELo.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Tlc"
+			},
+			{
+				"name": "AFC 亚洲旅游台",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a2169e91a270_b0H4.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=asiatravel_twn"
+			},
+			{
+				"name": "Bloomberg News",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a0fe1c7e1e0e_lTle.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=bloomberg_twn"
+			},
+			{
+				"name": "Al-Jazeera",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a7fb7da12fc3_kWXh.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=aljazeera_twn"
+			},
+			{
+				"name": "CGTN",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5e5bb49eb1a61_TR75.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=CGTN"
+			},
+			{
+				"name": "Russia Times",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5b3e1be91158f_pMk6.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=russiantime_twn"
+			},
+			{
+				"name": "CNA",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a1d27068c8fa_YYvZ.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=cna"
+			},
+			{
+				"name": "HBO Signature HD",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/61df9efc17d3b_D3Zd.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Hbosignature"
+			},
+			{
+				"name": "HBO HD",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a216594043cc_iIRr.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Hbo"
+			},
+			{
+				"name": "HBO Hits HD",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a2165b25bd3c_EZRs.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Hbohits"
+			},
+			{
+				"name": "Axn HD",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a2166dcd0c33_p0em.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Axn"
+			},
+			{
+				"name": "tvN Movie",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/6046399aabce3_PKQH.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Tvnmovie"
+			},
+			{
+				"name": "Arena",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5cb884baa5526_EiQE.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Arena"
+			},
+			{
+				"name": "Arena2",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/616e52aa17777_EEkJ.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Arena2"
+			},
+			{
+				"name": "SPO TV 2",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/616e52d714b83_ZyM7.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=go_spotv2"
+			},
+			{
+				"name": "Supersports 1",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5cdd7cbebb853_fejD.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Assp1"
+			},
+			{
+				"name": "Supersports 1",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5cdd7cbebb853_fejD.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=go_assp1"
+			},
+			{
+				"name": "Supersports 2",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5cdd7d464cc88_2Ong.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Assp2"
+			},
+			{
+				"name": "Supersports 2",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5cdd7d464cc88_2Ong.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=go_assp2"
+			},
+			{
+				"name": "Supersports 3",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5cdd7d897b3b3_7KLH.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Assp3"
+			},
+			{
+				"name": "Supersports 3",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5cdd7d897b3b3_7KLH.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=go_assp3"
+			},
+			{
+				"name": "Supersports 4",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5cdd7dd500b65_HFYb.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Assp4"
+			},
+			{
+				"name": "Supersports 4",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5cdd7dd500b65_HFYb.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=go_assp4"
+			},
+			{
+				"name": "Supersports 5",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/61d81401cdb13_DkQy.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Assp"
+			},
+			{
+				"name": "Supersports 5",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/61d81401cdb13_DkQy.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=go_assp5"
+			},
+			{
+				"name": "Astro Golf",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/60795d9770fa4_3B42.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Astrogolf"
+			},
+			{
+				"name": "Cricket",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/61e6a15aafec7_tG9w.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Acricket"
+			},
+			{
+				"name": "WWE",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5d7e268145b2a_8D8s.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Wwe"
+			}
+		]
+	},
+	{
+		"type": "Singapore",
+		"list": [{
+				"name": "Channel 5",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5b77faa9d6ee8_eMcr.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Channel5HD"
+			},
+			{
+				"name": "Channel 5 backup",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5971eea43c627_49Qu.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Channel5HD"
+			},
+			{
+				"name": "Channel 8",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5b77faf9e5beb_gXBj.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Channel8HD"
+			},
+			{
+				"name": "Channel 8 backup",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5afad500ccf72_1ueU.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Ch8114"
+			},
+			{
+				"name": "Suria SD",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/61209f82f35af_1ZcY.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Suria82"
+			},
+			{
+				"name": "Suria",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a06c02284535_22o6.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Suria"
+			},
+			{
+				"name": "Channel U",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a06c04bdab45_QnTV.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=ChannelU"
+			},
+			{
+				"name": "Vasantham",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a06c06069dc2_en3f.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Vasantham"
+			},
+			{
+				"name": "Nickelodeon",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5e773729d75f1_9N5b.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Nickelodeon"
+			},
+			{
+				"name": "Nick Jr",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5e773774ec65b_g2p5.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Nickjr"
+			},
+			{
+				"name": "Baby TV Eng",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5ff2f540b4e38_uBBV.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Babytv"
+			},
+			{
+				"name": "Boomerang",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/609a5e28012cd_2zRQ.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Boomerang"
+			},
+			{
+				"name": "Kids TV",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/609a5e438e0b2_0Zl3.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=KidsTV"
+			},
+			{
+				"name": "CBeebies",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/609a5e18119f1_p4EF.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Cbeebies"
+			},
+			{
+				"name": "Disney Taiwan",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5b3a2c3053f1b_460g.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=disneytwn_twn"
+			},
+			{
+				"name": "Momo TV",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a0fdc625e9ea_YD9m.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=momo1_twn"
+			},
+			{
+				"name": "Boomerang Taiwan",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5f19cbb4d6906_wgep.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=boomerang_twn"
+			},
+			{
+				"name": "Baby TV",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5f01c5df39001_XL62.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=babytv_twn"
+			},
+			{
+				"name": "MiaoMi",
+				"logo": "http://83.149.124.200:16310/images/default/Default_channel_logo.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=MiaoMi"
+			},
+			{
+				"name": "Animax",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/607d59b103887_nVWq.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Animax"
+			},
+			{
+				"name": "Hits",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/607d59d6a6de1_8h0h.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Hits"
+			},
+			{
+				"name": "Warner TV",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/607d59eb3a668_w1aF.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=WarnerTV"
+			},
+			{
+				"name": "One",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/607d59ffa80a7_H00Q.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=One"
+			},
+			{
+				"name": "Entertain",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/609a5cd2f0f20_QB2k.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Entertain"
+			},
+			{
+				"name": "Beinsports 2 HD",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/60463aa59d870_65Oy.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Bein2hd"
+			},
+			{
+				"name": "Fight Sports",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/60463abf255c8_GoT9.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Fightsports"
+			},
+			{
+				"name": "Thrill",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/607d5a44bfe16_FwQ7.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Thrill"
+			},
+			{
+				"name": "Hits Movie",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/607d5b0bec9f9_EFfE.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Hitsmovie"
+			},
+			{
+				"name": "tvN Movie",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/6046399aabce3_PKQH.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Tvnmovie"
+			},
+			{
+				"name": "CNA",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a1d27068c8fa_YYvZ.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=cna"
+			},
+			{
+				"name": "France 24",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a07e59a634e5_h4rA.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=france24_twn"
+			},
+			{
+				"name": "DW (Deutsch)",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a07e5b30d607_CZ93.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=dw_twn"
+			}, {
+				"name": "ABC News",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5cb8817d7cecf_EBE0.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=abcnews_glo"
+			},
+			{
+				"name": "CBS HD",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5cb8822242313_f6rG.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=cbshd_glo"
+			},
+			{
+				"name": "CBSN HD",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5cb882d8dc647_oT2y.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=cbsn_glo"
+			},
+			{
+				"name": "CNN International",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5f918251c926b_tVX9.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=cnn_antik"
+			},
+			{
+				"name": "Fox News",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5f772425ccb2e_scL6.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=foxnews_twn"
+			},
+			{
+				"name": "NHK World",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/6071521dd57ca_NLaz.png",
+				"url": "nhkworld_japan"
+			},
+			{
+				"name": "BBC 1",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5f9181361dee5_MDjl.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=bbc1_antik"
+			},
+			{
+				"name": "BBC 2",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5f91814fb3817_6fDV.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=bbc2_antik"
+			},
+			{
+				"name": "CBBC",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5f918166c532d_110a.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=cbbc_antik"
+			},
+			{
+				"name": "More4",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5f9181811cd7e_4j9Z.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=more4_antik"
+			},
+			{
+				"name": "Freesports",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5f9181a34f4e3_zN3L.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=freesports_antik"
+			},
+			{
+				"name": "Pick TV",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5f9181c124463_omAE.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=skynews_antik"
+			},
+			{
+				"name": "Skynews",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5f9181e4b38f9_jR8W.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=picktv_antik"
+			},
+			{
+				"name": "itv 1",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5f9182016df26_zzZM.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=itv1_antik"
+			},
+			{
+				"name": "itv 2",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5f918215f26bb_VGZv.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=itv2_antik"
+			},
+			{
+				"name": "Euronews",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5f9182b681697_201z.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=euronews_antik"
+			},
+			{
+				"name": "Channel 4",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5f9182d04d794_7Rsu.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=channel4_antik"
+			},
+			{
+				"name": "BBC World News",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5f9182381dfb6_atk9.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=bbcworldnews_antik"
+			},
+			{
+				"name": "Lifestyle&Fashion",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/609a5cb41c0ac_0XLC.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Lifestyle"
+			},
+			{
+				"name": "NatGeo HD",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5fa3ba3874dd6_052Z.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Natgeo"
+			},
+			{
+				"name": "Natgeo_HD",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a07dfdb8a133_KRQF.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=natgeohd_twn"
+			},
+			{
+				"name": "NatGeo_Wild HD",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a98f64207d24_Z7IR.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=natgeowild_twn"
+			},
+			{
+				"name": "Animal_Planet",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a07e0b6e4e25_1t87.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=animalplanet_twn"
+			},
+			{
+				"name": "Discovery Turbo",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a07e01d2f232_3j3X.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=discoveryturbo_twn"
+			},
+			{
+				"name": "Discovery_Science",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a2156f7e4f33_Iu9U.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=discoverysc_twn"
+			},
+			{
+				"name": "Discovery Asia",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a2156508b7f3_6Fmt.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=discoverytwn_twn"
+			},
+			{
+				"name": "CI",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a98f24ab1e1e_lcJU.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=ci_twn/playlist.m3u8"
+			},
+			{
+				"name": "History",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a07e090ed797_tvMv.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=History"
+			},
+			{
+				"name": "Asia Travel",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a07e202a1f2a_rv0X.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=asiatravel_twn"
+			},
+			{
+				"name": "Travelxp",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5f19d020bdab0_d6d6.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=travelxp_raj"
+			},
+			{
+				"name": "BBC Earth HD",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5ef4ccb450d60_liZo.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=bbcearth_twn"
+			},
+			{
+				"name": "BBC Earth Lifestyle",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5ef4cce6aa24d_WykD.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=bbclifestyle_twn"
+			},
+			{
+				"name": "Discovery HD",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a2167cd6d045_JGkV.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=discoveryhd_twn"
+			},
+			{
+				"name": "Fashion TV",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5f6b2d6f239ec_Oob3.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=fashiontv_twn"
+			},
+			{
+				"name": "MTV Live",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5ef4d0fabc707_0V7z.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=mtv_twn"
+			},
+			{
+				"name": "TLC",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5b502a10ccb7c_HELo.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Tlc"
+			},
+			{
+				"name": "True Premium 1 HD",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5d5684254355e_OqkJ.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=truepre1_pat"
+			},
+			{
+				"name": "True Premium 2 HD",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5d5684c4577bf_It6h.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=truepre2_pat"
+			},
+			{
+				"name": "NBA TV",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5c2e37740d88a_LHbt.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=nbatv_zero"
+			},
+			{
+				"name": "Eurosports HD",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/615aed1ebc53a_8270.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=foxsport3hd_twn"
+			},
+			{
+				"name": "Sony Ten 1",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5e67cc39d6a11_UJ90.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=ten1_raj"
+			},
+			{
+				"name": "Sony Ten 2",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5e67cc7c8d7bd_07r4.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=ten2_raj"
+			},
+			{
+				"name": "Sony Ten 3",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5e67ccb424c0e_5ZPW.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=ten3_raj"
+			},
+			{
+				"name": "Sony Six HD",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5f86d75b47950_3v3x.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=sonysix_raj"
+			},
+			{
+				"name": "Fight Sports",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/60463abf255c8_GoT9.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Fightsports"
+			},
+			{
+				"name": "BT Sports 1",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/6052f2b90841b_gVIj.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=beeone"
+			},
+			{
+				"name": "BT Sports 2",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/6052f33fc0d8e_758H.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=beetwo"
+			},
+			{
+				"name": "BT Sports 3",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/6052f3d5cbbf7_CHWr.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=beethree"
+			},
+			{
+				"name": "BT ESPN",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/607958a2ee8d0_72ag.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=btespn"
+			},
+			{
+				"name": "Skysports Action",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/60795900ea259_9F5N.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=tiankongaction"
+			},
+			{
+				"name": "Skysports Arena ",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/60795945e54dc_pUW6.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=tiankongarena"
+			},
+			{
+				"name": "Skysports Cricket",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/6079597e84a84_7yRI.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=tiankongcricket"
+			},
+			{
+				"name": "Skysports EPL",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/60795a788ddd3_yOW5.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=tiankongepl"
+			},
+			{
+				"name": "Skysports F1",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/60795ab0ac064_bw1E.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=tiankongf1"
+			},
+			{
+				"name": "Skysports Football",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/60795ae2d1cd5_Zsu5.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=tiankongfootball"
+			},
+			{
+				"name": "Skysports Golf",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/60795b22f01f7_Rgz0.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=tiankonggolf"
+			}
+		]
+	},
+	{
+		"type": "Hongkong",
+		"list": [{
+				"name": "翡翠台",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5dc29254bbcde_NNOh.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=jade_twn"
+			},
+			{
+				"name": "Jade Backup",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5ff4647673327_nNh7.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=jade1_twn"
+			},
+			{
+				"name": "iNews 新闻台",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5b83f4998635d_x402.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=inews_twn"
+			},
+			{
+				"name": "J 2",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5b83f0118662a_Y9Fw.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=j2_twn"
+			},
+			{
+				"name": "J 5",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5b83f04ce44a7_ofaG.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=j5_twn"
+			},
+			{
+				"name": "珍珠台",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5b83f06aa2a69_LRfF.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=pearl_twn"
+			},
+			{
+				"name": "凤凰香港",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5adfe1fc7982b_u0t8.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=hkphoenix_twn"
+			},
+			{
+				"name": "无线财经资讯台",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5d0362d914c11_xxl4.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=tvbcaijing_twn"
+			},
+			{
+				"name": "TVB 星河",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5b83f5a59d0c0_jdoo.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=tvbxinhe_twn"
+			},
+			{
+				"name": "RHK 31",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5d03644fd07f5_kwZc.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=rhk31_twn"
+			},
+			{
+				"name": "凤凰卫视",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5971f2d94b6b3_XfGx.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=phoenixtv_hd"
+			},
+			{
+				"name": "凤凰资讯",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5971f2f949ff8_FotD.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=phoenixinfo_hd"
+			},
+			{
+				"name": "VIUTV1",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5d0364d443b49_7r8B.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=viu1_twn"
+			},
+			{
+				"name": "RHK 32",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5f9ac2413b04b_4Hux.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=rhk32_twn"
+			},
+			{
+				"name": "Viu6",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/615ac007da9b3_0p6I.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=viusix_twn"
+			}
+		]
+	},
+	{
+		"type": "China",
+		"list": [{
+				"name": "CCTV-1 综合 HD",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a1fb99b9aff5_ZbUY.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=cctv1"
+			},
+			{
+				"name": "CCTV-2 财经",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a1fb9b73797b_7vO3.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=cctv2"
+			},
+			{
+				"name": "CCTV-3 综艺 HD",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a1fb9d235349_uiZ3.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=cctv3"
+			},
+			{
+				"name": "CCTV-4 中文国际",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5971f3572fbc0_ecgj.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Cctv4"
+			},
+			{
+				"name": "CCTV-4 中文国际（备用）",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5b1271a528652_NDoB.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=cctv48"
+			},
+			{
+				"name": "CCTV-7 军事农业",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a1fbb8e839a2_V374.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=cctv7"
+			},
+			{
+				"name": "CCTV-8 电视剧 HD",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a1fbba9a3137_kOKc.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=cctv8hd"
+			},
+			{
+				"name": "CCTV-9 记录 HD",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a1fbbcb4a553_0q2H.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=cctv9hd"
+			},
+			{
+				"name": "CCTV-10 科教 HD",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a1fbbea04618_zBOm.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=cctv10hd"
+			},
+			{
+				"name": "CCTV-11 戏曲",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a1fbc0f86134_rO88.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=cctv11"
+			},
+			{
+				"name": "CCTV-12 社会与法",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a1fbc2b8b19e_dYsa.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=cctv12"
+			},
+			{
+				"name": "CCTV-13 新闻频道",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a1fbc460918d_68QZ.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=cctv13"
+			},
+			{
+				"name": "CCTV-6",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a07dd54a5b01_AQwz.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=cctv6"
+			},
+			{
+				"name": "CCTV-14 少儿",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5edf747068391_e0gR.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=cctv14"
+			},
+			{
+				"name": "CCTV-15 音乐",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a1fbcc53d698_TcaS.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=cctv15"
+			},
+			{
+				"name": "湖南卫视 Hunan",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a1e741e56c45_jFZh.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Hunan"
+			},
+			{
+				"name": "湖南卫视 （备份）",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a1e747a19c6f_a8Xj.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=hunan_twn"
+			},
+			{
+				"name": "浙江卫视 Zhejiang",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a1fb6577dbf9_4Qn5.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Zhejiang"
+			},
+			{
+				"name": "浙江卫视 （备用）",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a1fb6874b836_9q9M.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=zhejiang_twn"
+			},
+			{
+				"name": "江苏卫视 Jiangsu",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a1e235c9d87b_0m0T.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Jiangsu"
+			},
+			{
+				"name": "江苏卫视 （备份）",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a1e74a487b89_HlXT.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=jiangsu_twn"
+			},
+			{
+				"name": "深圳卫视",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5d22ffdf55547_1u9U.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=shenzhen"
+			},
+			{
+				"name": "深圳卫视-备份",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/61e7c7fb823ef_L6aN.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=shenzhen"
+			},
+			{
+				"name": "深圳卫视-备份",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/61e7c7fb823ef_L6aN.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=shenzhen"
+			},
+			{
+				"name": "深圳卫视-备份",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/61e7c7fb823ef_L6aN.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=shenzhen"
+			},
+			{
+				"name": "福建东南卫视",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a1fb74f1583c_5t42.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=fujian"
+			},
+			{
+				"name": "广东南方卫视",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5edf81edc187c_hGG8.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=nanfang_twn"
+			},
+			{
+				"name": "广东卫视",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5ef9a1d2489b7_0J67.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=guangdongweishi_twn"
+			},
+			{
+				"name": "北京卫视",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a100738576f4_2rrh.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=beijing"
+			},
+			{
+				"name": "珠江台",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a10083848a45_uvfB.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=zhujiang"
+			},
+			{
+				"name": "广西卫视",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a100775e28cf_vd2Y.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=guangxi"
+			},
+			{
+				"name": "湖北卫视",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a1007f84d901_aDRq.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=hubei"
+			},
+			{
+				"name": "四川卫视",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a1fb7ddc6b1e_6ShO.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=sichuan_twn"
+			},
+			{
+				"name": "凤凰卫视",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5971f2d94b6b3_XfGx.png",
+				"url": "http://ublive.kozow.com/smart/smart.php?url=http://50.7.92.74:8278/phoenixtv_hd"
+			},
+			{
+				"name": "广东体育 GDSports",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a1fb8600e136_4Tx3.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=gdsports"
+			},
+			{
+				"name": "凤凰资讯",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5971f2f949ff8_FotD.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=phoenixinfo_hd"
+			},
+			{
+				"name": "CHC 家庭影院",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5ef47bbc2c1cc_hUZh.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=chcfamily"
+			},
+			{
+				"name": "CHC 动作电影",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5ef47c6505076_FBy6.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=chcaction"
+			},
+			{
+				"name": "东方卫视",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5f9abd243dd19_SopO.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=dongfangweishi_twn"
+			},
+			{
+				"name": "CGTN",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5e5bb49eb1a61_TR75.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=CGTN"
+			},
+			{
+				"name": "CCTV-5 体育频道",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5ba76f63a5e4f_bnN4.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=cctv58"
+			},
+			{
+				"name": "CCTV-5+ 体育赛事 HD",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a21137727b90_Ay7G.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=cctv5plus"
+			}
+		]
+	},
+	{
+		"type": "Taiwan",
+		"list": [{
+				"name": "TVBS News 新闻台",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a20f35d6bc9f_jpuU.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=tvbs_n"
+			},
+			{
+				"name": "TVBS 欢乐台 （备份）",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5dbcf02b02fa1_KmYg.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=tvbshuanle_twn"
+			},
+			{
+				"name": "TVBS HD",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a20f29e89470_TOZ4.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=tvbs"
+			},
+			{
+				"name": "中天新闻 HD",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5d864efce07b1_Cob7.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=ctinews"
+			}, {
+				"name": "中天娱乐 CTI Entertaiment",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a07a7ad3ce62_zGkW.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=ctient"
+			},
+			{
+				"name": "中天综合 CTI Metro",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a20f3e9b6dc0_q9wh.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=ctizhonghe"
+			},
+			{
+				"name": "中天亚洲台",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5ef34b78abae9_lcUh.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=ctiasia_twn"
+			},
+			{
+				"name": "台视 TTV HD",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a20f49783758_lqgU.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=ttv_taiwan"
+			},
+			{
+				"name": "台视新闻台",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/6207d2af93f01_C8ET.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=ttvnews_twn"
+			},
+			{
+				"name": "台视综合台",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/615ae0be7ecef_8Xkk.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=ttvhe_twn"
+			},
+			{
+				"name": "中视 HD",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5e79e19933ef1_0gtF.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=zhongshihd_twn"
+			},
+			{
+				"name": "中视新闻台",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5e79e1c173ffc_Ffv5.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=zhongshinews_twn"
+			},
+			{
+				"name": "民视 HD",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/61ab10a4ef588_0nFM.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=ftvhd_taiwan"
+			},
+			{
+				"name": "民视新闻台 FTV News",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a20f508d3945_OF2b.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=ftvnew_taiwan"
+			},
+			{
+				"name": "民视台湾台",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5ef4863347815_LS6r.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=ftvtaiwan_twn"
+			},
+			{
+				"name": "华视 CTS HD",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5ef4850f9c41f_77SB.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=ctshd_twn"
+			},
+			{
+				"name": "公视 CTV",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a07a90142345_bUxd.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=ctv_taiwan"
+			},
+			{
+				"name": "八大第一 GTV First",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a20f6ca5a321_y77x.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=badafirst"
+			},
+			{
+				"name": "八大综合 GTV Metro",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a20f74f4f446_3vV7.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=badazhonghe"
+			},
+			{
+				"name": "八大戏剧 GTV Drama",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a20f714e7982_tpnp.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=badadrama"
+			},
+			{
+				"name": "八大娱乐 GTV Entertainment",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5971fac8acd85_1fyo.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=badaentertain"
+			},
+			{
+				"name": "HBO_HD",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a214c5249a75_DKEB.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=hbohd_twn"
+			},
+			{
+				"name": "HBO_HITS",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a98c1dfc0d15_7wpj.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=hbohits_twn"
+			},
+			{
+				"name": "Hollywood Movies",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a0fe14e0a469_2mEo.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=hollywoodmovies_twn"
+			},
+			{
+				"name": "CINEMAX",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a07dbea69aba_ufhU.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=cinemax_twn.m3u8"
+			},
+			{
+				"name": "AXN Taiwan",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a214f430ba32_4W5w.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=axn_twn"
+			},
+			{
+				"name": "CatchPlay 电影台",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a07df24927e7_BzjT.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=catchplay_twn"
+			},
+			{
+				"name": "三立台湾 Sanli Taiwan",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a07aa484fdb8_ZP60.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=sanlitaiwan_zero"
+			},
+			{
+				"name": "三立戏剧台",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5fa3dd3d83ead_l7lR.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=sanlixiju_twn"
+			},
+			{
+				"name": "三立综合 Sanli Metro",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a20f8d13edd1_SZPZ.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=sanlizhonghe"
+			},
+			{
+				"name": "三立都会台",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5ef478076b65f_ZOy7.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=sanlidouhui_zero"
+			},
+			{
+				"name": "东森新闻 ETTV News",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a07aa66e2bfd_0a3a.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=ettvnews"
+			},
+			{
+				"name": "东森电影 ETTV Movie",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a2151e2716d5_9LKH.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=ettvmovie"
+			},
+			{
+				"name": "东森洋片 ETTV Western",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a20fad95bf86_5r22.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=ettvwestern"
+			},
+			{
+				"name": "东森综合 ETTV Metro",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/597214f33c2f3_Iir8.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=ettvzhonghe"
+			},
+			{
+				"name": "东森戏剧 ETTV Drama",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a07aa9f60889_OvMr.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=ettvdrama"
+			},
+			{
+				"name": "东森超视",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5ee5dda799995_nxxZ.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=ettvsuper"
+			},
+			{
+				"name": "东森财经新闻 ETTV Business",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a20fa57a4f36_U0S8.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=ettvcaijing_twn"
+			},
+			{
+				"name": "寰宇财经",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/6207d1c5c57ff_TmxB.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=huanyutaiwan_twn"
+			},
+			{
+				"name": "寰宇新闻台",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/6207d1e2785ef_Z1HU.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=huanyuxinwen_twn"
+			},
+			{
+				"name": "大爱1台",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a07ab5e806e7_7gGt.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=daai_twn"
+			},
+			{
+				"name": "非凡新闻台",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a07b5cf79950_l89e.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=feifannews_twn"
+			},
+			{
+				"name": "龙华戏剧 Lunghua Drama",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a2104d7173d8_laLA.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=lunghuaxiju_twn"
+			},
+			{
+				"name": "龙华戏剧台",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5ef46d2db93ae_9Ob7.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=lunghuaxiju_twn"
+			},
+			{
+				"name": "龙华经典台",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5f16f006937ee_hbZ8.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=lunghuajingdian_twn"
+			},
+			{
+				"name": "龙华偶像",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a21052c811cb_AFAb.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=lunghuaidol_twn"
+			},
+			{
+				"name": "龙华电影 Lunghua Movie",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a210460a9372_U5xF.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=lunghuamovie_twn"
+			},
+			{
+				"name": "靖天国际台",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5ee5e27819ade_882I.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=jingtianintl_twn"
+			},
+			{
+				"name": "靖天咨询台",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5f16f0c5159fe_BtRt.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=jingtianinfo_twn"
+			},
+			{
+				"name": "年代新闻",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a21080065d41_0hFz.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=niandainews_twn"
+			}, {
+				"name": "纬来日本台",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5ef4d1e7bf942_NJa3.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=videolandjapan"
+			},
+			{
+				"name": "纬来电影台",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5ef4d2140bdff_RV5n.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=videolandmovie_twn"
+			},
+			{
+				"name": "纬来体育台",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5ef4d26b4e5ea_41OD.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=videolandsport"
+			},
+			{
+				"name": "纬来戏剧台",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5ef4d29216a69_NFGW.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=videolandxiju_twn"
+			},
+			{
+				"name": "纬来综合台",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5ef4d2b942bef_ZYqs.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=videolandzonghe"
+			},
+			{
+				"name": "纬来育乐",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/615ac6efe44e3_XA3K.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=videolandyule"
+			},
+			{
+				"name": "纬来精彩",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/615ad8a8d99f4_J33A.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=videolandspecial_twn"
+			},
+			{
+				"name": "好消息 2",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5ef472ef7cd46_vnVW.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=good2_twn"
+			},
+			{
+				"name": "龙华洋片 Lunghua Western",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a21049520fc1_QIVj.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=lunghuawestern_twn"
+			},
+			{
+				"name": "亚洲美食",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5ef4cb6e4ec03_5cx5.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=afc_twn"
+			},
+			{
+				"name": "美食星球",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5ef4d03edc132_Dxmj.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=foodplanet_twn"
+			},
+			{
+				"name": "亚洲旅游 TLC Asia",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5ef4d38506957_oDZu.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=tlc_twn"
+			},
+			{
+				"name": "龙详时代",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5ef4745db8d4f_IsS5.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=lungxiangtime_twn"
+			},
+			{
+				"name": "靖天卡通台",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5b3a24b319689_3vD8.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=jingtiancartoon_twn"
+			},
+			{
+				"name": "阿里郎 Arirang",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5f16f06e3f614_wOfo.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=arirang_twn"
+			},
+			{
+				"name": "博斯运动 1",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5f16f28101ccd_21Yl.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=bosisport1_twn"
+			},
+			{
+				"name": "博斯运动 2",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5f16f2d170aaf_zKOw.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=bosisport2_twn"
+			},
+			{
+				"name": "博斯高球2 HD",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5f16f32607f4a_wZ5H.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=bosigolf2_twn"
+			},
+			{
+				"name": "博斯网球 HD",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5f16f37b7740e_E2eC.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=bositennis_twn"
+			},
+			{
+				"name": "博斯无限",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5f16f3c25dba2_Xkc0.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=bosiunlimited_twn"
+			},
+			{
+				"name": "MTV Live",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5ef4d0fabc707_0V7z.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=mtv_twn"
+			},
+			{
+				"name": "卫视中文台 Star Movies Chinese",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5f16ef902a949_C0FF.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=weishichinese_twn"
+			},
+			{
+				"name": "卫视电影台",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/607d5719770ba_T0I8.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=weishimovie_twn"
+			},
+			{
+				"name": "EYETV 旅游",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5f2edfc5cb545_07F2.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=eyetvtravel_twn"
+			},
+			{
+				"name": "EYETV 戏剧",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5f2ee0166877e_21kv.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=eyetvxiju_twn"
+			},
+			{
+				"name": "东森幼幼 Yoyo TV",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a215c530b17b_qqz4.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=yoyo_twn"
+			},
+			{
+				"name": "AFC 亚洲旅游台",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a2169e91a270_b0H4.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=asiatravel_twn"
+			},
+			{
+				"name": "美亚电影",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5f2edf3bc7057_sF6F.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=meiyamovie_twn"
+			},
+			{
+				"name": "星卫电影",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5ffc1f37adda1_RORQ.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=xingwei_movie"
+			},
+			{
+				"name": "星空电影台",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/60a0c19f7cf06_XYmy.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=xingkong"
+			},
+			{
+				"name": "爱尔达影剧台",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a07acc5e6f63_wdNZ.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=eltayingju_twn"
+			},
+			{
+				"name": "爱尔达综合台",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5ef4cfc1d56ef_xQJz.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=eltazonghe_twn"
+			},
+			{
+				"name": "爱尔达影剧",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5f2eded6eb44a_cA9P.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=eltayingju_twn"
+			},
+			{
+				"name": "爱尔达体育1台",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5ef4cf80ca577_6pSi.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=eltasport_twn"
+			},
+			{
+				"name": "爱尔达体育2台",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5ef4cf42c66b7_iSKc.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=eltasport2_twn"
+			}
+		]
+	},
+	{
+		"type": "Indonesia",
+		"list": [{
+				"name": "TVRI National",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5b868548cd8db_6uIi.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=TVRI"
+			},
+			{
+				"name": "RCTI",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/59720e1c86fdf_RNTK.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Rcti"
+			},
+			{
+				"name": "RCTI backup",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/61b749af79b17_1Kvv.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Rcti_backup"
+			},
+			{
+				"name": "Kompass TV",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/59720dbfc7a1f_61p1.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Kompass"
+			},
+			{
+				"name": "Berita Satu",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5f00764563909_bMva.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=BeritaSatu_eko"
+			},
+			{
+				"name": "Indosiar HD",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5caf378249963_FkKU.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Indosiar"
+			},
+			{
+				"name": "AnTV",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5f0075b5b7925_d3YY.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Antv"
+			},
+			{
+				"name": "TV9 Indonesia",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5f007481517cc_47O7.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=TV9_eko"
+			},
+			{
+				"name": "MNC TV",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5d721d4389da4_G1ZL.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Mnctv"
+			},
+			{
+				"name": "Trans 7",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5f0076089b349_kPFK.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Trans7_eko"
+			},
+			{
+				"name": "Transtv",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5ebe907d0f9fb_rxyZ.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Transtv/playlist.m3u8"
+			},
+			{
+				"name": "JTV",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5f0077280b78a_tAHQ.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=JTV_eko"
+			},
+			{
+				"name": "Metro TV",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5a216573903bf_s163.jpg",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=metrotv_eko"
+			},
+			{
+				"name": "SCTV",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/59720dd61dfe1_76P7.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Sctv"
+			},
+			{
+				"name": "Tvone",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5ebe906a86d36_gP9r.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Tvone"
+			},
+			{
+				"name": "O Channel",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5f007776f3b2d_vvaz.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=OChannel_eko"
+			},
+			{
+				"name": "TVMU",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/5f0074cf550bf_Y0yL.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=TVMU_eko"
+			},
+			{
+				"name": "GTV",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/60463af7167fc_95Ol.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Gtv"
+			},
+			{
+				"name": "Jak TV",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/609a5b1d1df8d_Pp10.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=JakTV"
+			},
+			{
+				"name": "iNews TV",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/609a5b424fc79_hSEN.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Inewstv"
+			},
+			{
+				"name": "Daai TV",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/609a5b5fc58d2_R114.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=DaaiTV"
+			},
+			{
+				"name": "Net TV",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/609a5b75a7203_1GdF.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=NetTV"
+			},
+			{
+				"name": "EWTN",
+				"logo": "http://83.149.124.200:16310/images/default/Default_channel_logo.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Ewtn"
+			},
+			{
+				"name": "AlQuran AlKareem",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/609a5bb2666d3_MUwh.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=AlQuran"
+			},
+			{
+				"name": "Tawaf TV",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/609a5bc805240_fvfz.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=TawafTV"
+			},
+			{
+				"name": "Vision Prime",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/609a5bdb2da92_ZJ2K.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=VisionPrime"
+			},
+			{
+				"name": "Muslim TV",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/609a5bfceac3d_ERMT.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=MuslimTV"
+			},
+			{
+				"name": "Music TV",
+				"logo": "http://83.149.124.200:16310/uploadfiles/livelogo/609a5c59b9f86_i9Ef.png",
+				"url": "http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=MusicTV"
+			}
+		]
+	}
+]
