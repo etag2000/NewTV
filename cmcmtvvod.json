@@ -25,7 +25,26 @@
             "api": "https://fushusharing.000webhostapp.com/TVBOX/tvlist.json",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "CategoryName": 
+            [
+                "马来西亚",
+                "新加坡",
+                "印尼",
+                "香港",
+                "中国",
+                "台灣",
+                "体育",
+                "印度",
+                "电影",
+                "纪实",
+                "新聞",
+                "兒童",
+                "英国",
+                "泰国",
+                "韩国",
+                "日本"
+            ]
         },
         {
             "key": "N",
