@@ -27,35 +27,6 @@
             "type": 0,
             "url": "http://myhd.kozow.com/mitv/tvbox/mlive12.php"
         },
-        { 
-            "name": "🌏秒看TV",
-            "type": 0,
-            "url": "http://myhd.kozow.com/mitv/tvbox/mlive7.php",
-            "core":
-            {
-                "auth": "https://auth.zhaohezuo.top/v3/auth", 
-                "auth": "http://s9974302.myself.tk/zhaohezuo.top/chili_auth.php", 
-                "name": "02:00:00:00:00:00",
-                "pass": "3fbd0d4be5d491d5728c1fc8a794f595", 
-                "broker": "", 
-                "libname": "libtvcore2.so" 
-            }
-        },
-        {
-            "name": "🌏全球直播",
-            "type": 0, 
-            "url": "http://myhd.kozow.com/mitv/tvbox/mlive.php",
-            "core":
-            {
-                "auth": "http://bau.00009999.cc/v1/auth", 
-                "auth": "http://auth4u.kozow.com/Auth.php?mod=3", 
-                "name": "999126754208",
-                "pass": "37521585428098453824928285948923", 
-                "broker": "", 
-                "libname": "libtvcore2.so" 
-            }
-        },
-        
     ],
     "sites": [
         
