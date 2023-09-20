@@ -28,15 +28,9 @@
             "url": "http://myhd.kozow.com/mitv/tvbox/mlive12.php"
         },
         { 
-            "name": "🌏秒看TV", 
-            "url": "http://myhd.kozow.com/mitv/tvbox/mlive7.php", 
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}", 
-            "epg": "http://myhd.kozow.com/mitv/tvbox/epg/epg.php?ch={name}&date={date}", 
-            "logo": "http://myhd.kozow.com/mitv/tvbox/epg/logo.php?id={name}", 
-            "playerType": 1, 
-            "boot": false, 
-            "pass": false, 
-            "ua": "MTV", "referer": "https://yeslivetv.com/", 
+            "name": "🌏秒看TV",
+            "type": 0,
+            "url": "http://myhd.kozow.com/mitv/tvbox/mlive7.php",
             "core":
             {
                 "auth": "https://auth.zhaohezuo.top/v3/auth", 
@@ -48,16 +42,9 @@
             }
         },
         {
-            "name": "🌏全球直播", 
-            "url": "http://myhd.kozow.com/mitv/tvbox/mlive.php", 
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}", 
-            "epg": "http://myhd.kozow.com/mitv/tvbox/epg/epg.php?ch={name}&date={date}", 
-            "logo": "http://myhd.kozow.com/mitv/tvbox/epg/logo.php?id={name}", 
-            "playerType": 1, 
-            "boot": false, 
-            "pass": false, 
-            "ua": "ExoPlayerLib/2.9.0 AppleCoreMedia/ VasCreativePlayer Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36", 
-            "referer": "https://yeslivetv.com/", 
+            "name": "🌏全球直播",
+            "type": 0, 
+            "url": "http://myhd.kozow.com/mitv/tvbox/mlive.php",
             "core":
             {
                 "auth": "http://bau.00009999.cc/v1/auth", 
