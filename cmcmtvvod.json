@@ -19,6 +19,15 @@
     ],
     "sites": [
         {
+            "key": "SmartTV",
+            "name": "SmartTV",
+            "type": 1,
+            "api": "https://fushusharing.000webhostapp.com/TVBOX/tvlist.json",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "N",
             "name": "泥视云(fm)",
             "type": 3,
