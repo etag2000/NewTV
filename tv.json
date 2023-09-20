@@ -1,5 +1,6 @@
   {
-	  "sites": [
+	  "sites": 
+	  [
 		{ "key": "N", 
 			"name": "泥巴影院", 
 			"type": 3, "api": "csp_NiNi", 
@@ -420,12 +421,24 @@
 			"filterable": 0
 		}
 	],
-	  "lives": [
-		  {"group": "redirect",
-			  "channels": [{"name": "redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjb2RlLm5ldC9xcV8yOTc3MzE3MS9kaXlwLy0vcmF3L3R2L2RpeXAudHh0"]}]}],
-	
- "parses": [
-    {"name":"解析聚合","type":3,"url":"Demo"},
+	  "lives": 
+	  [
+		  {
+			  "group": "redirect",
+			  "channels": 
+			  [
+				  {
+					  "name": "redirect",
+					  "urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjb2RlLm5ldC9xcV8yOTc3MzE3MS9kaXlwLy0vcmF3L3R2L2RpeXAudHh0"
+					  ]
+				  }
+			  ]
+		  }
+	  ],
+	  "parses": 
+	  [
+		  {
+			  "name":"解析聚合","type":3,"url":"Demo"},
     {"name": "Json并发","type": 2,"url": "Parallel"},
     {"name": "Json轮询","type": 2,"url": "Sequence"},
 {"name":"线路m9","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="},
