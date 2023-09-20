@@ -26,37 +26,47 @@
             "name": "🌏歐華", 
             "type": 0,
             "url": "http://myhd.kozow.com/mitv/tvbox/mlive12.php"
+        },
+        { 
+            "name": "🌏秒看TV", 
+            "url": "http://myhd.kozow.com/mitv/tvbox/mlive7.php", 
+            "epg": "https://epg.112114.xyz/?ch={name}&date={date}", 
+            "epg": "http://myhd.kozow.com/mitv/tvbox/epg/epg.php?ch={name}&date={date}", 
+            "logo": "http://myhd.kozow.com/mitv/tvbox/epg/logo.php?id={name}", 
+            "playerType": 1, "boot": false, "pass": false, 
+            "ua": "MTV", "referer": "https://yeslivetv.com/", 
+            "core":
+            {
+                "auth": "https://auth.zhaohezuo.top/v3/auth", 
+                "auth": "http://s9974302.myself.tk/zhaohezuo.top/chili_auth.php", 
+                "name": "02:00:00:00:00:00",
+                "pass": "3fbd0d4be5d491d5728c1fc8a794f595",
+                "broker": "" 
+            },
+        { 
+            "name": "🌏全球直播", 
+            "url": "http://myhd.kozow.com/mitv/tvbox/mlive.php", 
+            "epg": "https://epg.112114.xyz/?ch={name}&date={date}", 
+            "epg": "http://myhd.kozow.com/mitv/tvbox/epg/epg.php?ch={name}&date={date}", 
+            "logo": "http://myhd.kozow.com/mitv/tvbox/epg/logo.php?id={name}", 
+            "playerType": 1, 
+            "boot": false, 
+            "pass": false, 
+            "ua": "ExoPlayerLib/2.9.0 AppleCoreMedia/ VasCreativePlayer Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36", 
+            "referer": "https://yeslivetv.com/", 
+            "core": 
+            { 
+                "auth": "http://bau.00009999.cc/v1/auth", 
+                "name": "999126754208", 
+                "pass": "37521585428098453824928285948923", 
+                "broker": "", "libname": "libtvcore2.so" 
+            } 
+        }, 
+        "auth": "http://auth4u.kozow.com/Auth.php?mod=3" 
         }
     ],
     "sites": [
-        {
-            "key": "SmartTV",
-            "name": "SmartTV",
-            "type": 1,
-            "api": "https://raw.githubusercontent.com/etag2000/NewTV/main/Iptv.json",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "CategoryName": 
-            [
-                "马来西亚",
-                "新加坡",
-                "印尼",
-                "香港",
-                "中国",
-                "台灣",
-                "体育",
-                "印度",
-                "电影",
-                "纪实",
-                "新聞",
-                "兒童",
-                "英国",
-                "泰国",
-                "韩国",
-                "日本"
-            ]
-        },
+        
         {
             "key": "N",
             "name": "泥视云(fm)",
