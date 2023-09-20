@@ -65,8 +65,8 @@
                 "pass": "37521585428098453824928285948923", 
                 "broker": "", 
                 "libname": "libtvcore2.so"
-                "auth": "http://auth4u.kozow.com/Auth.php?mod=3"
             } 
+            "auth": "http://auth4u.kozow.com/Auth.php?mod=3"
         },
         
     ],
