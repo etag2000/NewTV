@@ -60,13 +60,13 @@
             "referer": "https://yeslivetv.com/", 
             "core":
             {
-                "auth": "http://bau.00009999.cc/v1/auth",
-                "auth": "http://auth4u.kozow.com/Auth.php?mod=3",
-                "name": "999126754208", 
+                "auth": "http://bau.00009999.cc/v1/auth", 
+                "auth": "http://auth4u.kozow.com/Auth.php?mod=3", 
+                "name": "999126754208",
                 "pass": "37521585428098453824928285948923", 
                 "broker": "", 
-                "libname": "libtvcore2.so"
-            } 
+                "libname": "libtvcore2.so" 
+            }
         },
         
     ],
