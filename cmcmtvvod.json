@@ -4,14 +4,14 @@
       {
          "name":"🌏全球直播",
          "type":0,
-         "url":"http://myhd.kozow.com/mitv/tvbox/mlive.php",
+         "url":"http://myhd.kozow.com/mitv/tvbox/mlive7.php",
          "core":{
-            "auth":"http://bau.00009999.cc/v1/auth",
-            "name":"999126754208",
-            "pass":"37521585428098453824928285948923",
+            "auth":"https://auth.zhaohezuo.top/v3/auth",
+            "name":"02:00:00:00:00:00",
+            "pass":"3fbd0d4be5d491d5728c1fc8a794f595",
             "broker":"",
             "libname":"libtvcore2.so",
-            "auth":"http://auth4u.kozow.com/Auth.php?mod=3"
+            "auth":"http://s9974302.myself.tk/zhaohezuo.top/chili_auth.php"
          }
          },
       {
