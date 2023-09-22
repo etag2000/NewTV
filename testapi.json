@@ -4,6 +4,18 @@
   "spider": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;f5b3145384dbe67650ea3fe783764bd0", 
   "spider": "http://myhd.kozow.com/mitv/tvbox/jar/custom_spider.jar",
   "lives": [
+    { "name": "🌏全球直播", "url": "http://myhd.kozow.com/mitv/tvbox/mlive.php", 
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}", 
+      "epg": "http://myhd.kozow.com/mitv/tvbox/epg/epg.php?ch={name}&date={date}", 
+      "logo": "http://myhd.kozow.com/mitv/tvbox/epg/logo.php?id={name}", 
+      "playerType": 1, 
+      "boot": false, 
+      "pass": false, 
+      "ua": "ExoPlayerLib/2.9.0 AppleCoreMedia/ VasCreativePlayer Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36", 
+      "referer": "https://yeslivetv.com/", 
+      "core": { "auth": "http://bau.00009999.cc/v1/auth", "name": "", "pass": "", "broker": "", "libname": "libtvcore2.so" } 
+  }, 
+    "auth": "http://auth4u.kozow.com/Auth.php?mod=3",
     {
       "name": "🌏SMART",
       "type": 0,
