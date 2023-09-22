@@ -32,7 +32,7 @@
       "logo": "http://myhd.kozow.com/mitv/tvbox/epg/logo.php?id={name}", 
       "playerType": 1, "boot": false, "pass": false, "ua": 
       "MTV", "referer": "https://yeslivetv.com/", 
-      "core": { //"auth": "https://auth.zhaohezuo.top/v3/auth", "auth": "http://s9974302.myself.tk/zhaohezuo.top/chili_auth.php", "name": "02:00:00:00:00:00", "pass": "3fbd0d4be5d491d5728c1fc8a794f595", "broker": "" } 
+      "core": { "auth": "https://auth.zhaohezuo.top/v3/auth", "auth": "http://s9974302.myself.tk/zhaohezuo.top/chili_auth.php", "name": "02:00:00:00:00:00", "pass": "3fbd0d4be5d491d5728c1fc8a794f595", "broker": "" } 
     },
     { 
       "name": "🌏全球直播", "url": "http://myhd.kozow.com/mitv/tvbox/mlive.php", 
