@@ -84,6 +84,68 @@
       ]
     },
     {
+  "key": "Youtube",
+  "name": "Youtube",
+  "type": 3,
+  "style": {"type": "oval"},
+  "api": "http://myhd.kozow.com/mitv/tvbox/jar/Mud.js",
+  "searchable": 1,
+  "changeable": 1,
+  "ext": "http://myhd.kozow.com/mitv/tvbox/jar/USvO.txt"
+    },
+    { 
+      "key": "MV_vod", 
+      "name": "MV", 
+      "type": 1, 
+      "api": "https://tvbox-mv--leosam2048.repl.co/mv/vod", 
+      "jar":"http://myhd.kozow.com/mitv/tvbox/jar/fongmi2_spider.jar", 
+      "ext": "http://myhd.kozow.com/mitv/tvbox/marquee.json", 
+    },
+    { 
+      "key": "哔哩", 
+      "name": "哔哩", 
+      "type": 3, 
+      "api": "csp_Bili", 
+      "searchable": 1, 
+      "changeable": 0, 
+      "style": { "type": "rect", "ratio": 1.433 }, 
+      "ext": { "json": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/bili.json", "type": "帕梅拉#太极拳#广场舞#演唱会", "cookie": "" } 
+    }, 
+    { 
+      "key": "bili_open", 
+      "name": "哔哩貓", 
+      "type": 3, 
+      "api": "https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/bili_open.js", 
+      "searchable": 1, 
+      "changeable": 0, 
+      "ext": { "categories": "沙雕动画#沙雕穿越#沙雕", "cookie": "" } 
+    },
+    { 
+      "key": "WebDAV", 
+      "name": "WebDAV", 
+      "type": 3, 
+      "api": "csp_WebDAV", 
+      "searchable": 1, 
+      "changeable": 0, 
+      "ext": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/webdav.json" }, 
+    { 
+      "key": "星星", 
+      "name": "星星", 
+      "type": 3, 
+      "api": "csp_Star", 
+      "searchable": 1, 
+      "changeable": 1 
+    }, 
+    { 
+      "key": "玩偶", 
+      "name": "玩偶", 
+      "type": 3, 
+      "api": "csp_Wogg", 
+      "searchable": 1, 
+      "changeable": 0, 
+      "ext": { "token": "影視天下第一", "filter": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/wogg.json" } 
+    }, 
+    {
       "key": "量子资源",
       "name": "量子资源",
       "type": 1,
