@@ -82,14 +82,6 @@
       ]
     },
     {
-      "key": "精彩TV",
-      "name": "精彩TV",
-      "type": 1,
-      "api": "http://www.vvjiptv.com:1591/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
       "key": "量子资源",
       "name": "量子资源",
       "type": 1,
