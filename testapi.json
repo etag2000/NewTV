@@ -99,7 +99,7 @@
       "type": 1, 
       "api": "https://tvbox-mv--leosam2048.repl.co/mv/vod", 
       "jar":"http://myhd.kozow.com/mitv/tvbox/jar/fongmi2_spider.jar", 
-      "ext": "http://myhd.kozow.com/mitv/tvbox/marquee.json", 
+      "ext": "http://myhd.kozow.com/mitv/tvbox/marquee.json" 
     },
     { 
       "key": "哔哩", 
