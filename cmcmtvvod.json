@@ -24,14 +24,6 @@
    ],
    "sites":[
       {
-         "key":"动物世界",
-         "name":"动物世界",
-         "type":1,
-         "api":"https://vdn.apps.cntv.cn/api/getHttpVideoInfo.do?pid=7bd341ec798741439b26d15235bb97ec",
-         "searchable":1,
-         "changeable":1
-      },
-      {
          "key":"N",
          "name":"泥视云(fm)",
          "type":3,
