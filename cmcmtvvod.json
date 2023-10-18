@@ -1,15 +1,6 @@
 {
    "spider":"https://f004.backblazeb2.com/file/20232023/%E7%B3%9F%E8%80%81%E5%A4%B4.jar",
-   "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;80A411526553C11C96AC66D55E84A4B7",
    "lives":[
-      {
-         "name":"🌏歐華",
-         "type":0,
-         "url":"http://myhd.kozow.com/mitv/tvbox/mlive12.php",
-         "playerType":1,
-         "epg":"http://diyp.112114.xyz/?ch={name}&date={date}",
-         "logo":"https://epg.112114.xyz/logo/{name}.png"
-      },
       {
          "name":"线更直播",
          "type":0,
