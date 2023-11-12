@@ -108,28 +108,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": "https://bitbucket.org/xduo/json/raw/master/qie.json"
-        },
-        {
-            "key": "drpy_js_虎牙直播",
-            "name": "🐯虎牙直播",
-            "type": 3,
-            "api": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/虎牙直播.js"
-        },
-        {
-            "key": "drpy_js_斗鱼直播",
-            "name": "🐠斗鱼直播",
-            "type": 3,
-            "api": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/斗鱼直播.js"
-        },
-        
+        },        
         {
             "key": "MV_vod",
             "name": "🎸MV |明星",
@@ -251,16 +230,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0
-        },
-        {
-            "key": "农民",
-            "name": "🥝农民",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/农民影视.json"
         },
         {
             "key": "csp_Czsapp",
