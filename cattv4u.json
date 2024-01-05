@@ -42,15 +42,15 @@
             ]
         },
         {
-          "key": "獨播库",
-          "name": "🚩獨播库",
-          "type": 3,
-          "api": "csp_XPathMacFilter",
-          "searchable": 1,
-          "filterable": 1,
-          "changeable": 1,
-          "ext": "https://f004.backblazeb2.com/file/20232023/duboku.json",
-          "jar": "https://f004.backblazeb2.com/file/20232023/fm.jar"
+            "key": "獨播库",
+            "name": "🚩┃獨播库┃影视",
+            "type": 3,
+            "api": "csp_XPathMacFilter",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://json2023.s3.us-east-005.backblazeb2.com/duboku.json",
+            "jar": "https://jar2023.s3.us-east-005.backblazeb2.com/fm_custom_spider.jar"
         },
         {
             "key": "csp_Xinsj",
